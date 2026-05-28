@@ -1455,14 +1455,4 @@ Více info: https://www.facebook.com/restartuj</itunes:summary>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	
-    <item>
-      <title>Nebojme se emocí - hněv</title>
-      <description><![CDATA[Radim Toman]]></description>
-      <link>https://archive.org/download/restartcasd-dot-restart-podcast-archive/23-05-Radim-Toman-Nebojme-se-emoci-hnev.mp3</link>
-      <guid isPermaLink="false">7b9b3e16-0d48-41bb-a5c1-e42988991575</guid>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://archive.org/download/restartcasd-dot-restart-podcast-archive/23-05-Radim-Toman-Nebojme-se-emoci-hnev.mp3" length="1015648" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/restartcasd-dot-restart-podcast-archive/downloaded_bg_spotify.jpg" />
-    </item>
-  </channel>
-</rss>
+    
