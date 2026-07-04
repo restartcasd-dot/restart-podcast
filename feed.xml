@@ -1492,6 +1492,7 @@ Více info: https://www.facebook.com/restartuj</itunes:summary>
       <guid isPermaLink="false">667d32d6-8481-470a-bbd0-de08bca0b888</guid>
       <pubDate>Sat, 04 Jul 2026 16:00:00 GMT</pubDate>
       <enclosure url="https://archive.org/download/restartcasd-dot-restart-podcast-archive/20260704.mp3" length="34258665" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/restartcasd-dot-restart-podcast-archive/20260620-cover.jpg" />
     </item>
   </channel>
 </rss>
